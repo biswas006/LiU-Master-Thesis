@@ -10,11 +10,17 @@ A hierarchical linear mixed model which involves sub-region trials was considere
 List of Tables
 
 1 Introduction 
+
   1.1 Background 
+  
   1.2 Problem 
+  
   1.3 Goal 
+  
   1.4 Motivation 
+  
 2 Literature Review 
+
 3 Model Specification 
   3.1 Linear Mixed Models 
   3.2 Linear Mixed Model - The Specific Model 
