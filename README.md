@@ -22,21 +22,39 @@ List of Tables
 2 Literature Review 
 
 3 Model Specification 
+
   3.1 Linear Mixed Models 
+  
   3.2 Linear Mixed Model - The Specific Model 
+  
 4 Estimators 
+
   4.1 Best Linear Unbiased Estimator- BLUE 
+  
   4.2 Computation of Covariance Matrix of BLUE 
+  
 5 Optimal Design 
+
   5.1 Exact and Approximate Design 
+  
   5.2 Design Criteria 
+  
 6 OptimalDesign(OD) package in R 
+
 7 Optimal design - example 
+
   7.1 Description 
+  
   7.2 Methods - Exact and Approximate Designs for Fixed effects 
+  
 8 Results 
+
   8.1 Standard A-Criterion 
+  
   8.2 Weighted A-criterion 
+  
 9 Discussion 
+
 10 Conclusion 
+
 11 Limitations, Future Work and Ethical Consideration
